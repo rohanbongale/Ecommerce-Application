@@ -1,0 +1,6 @@
+23:52:46.648 [main] INFO  com.mystore.testcases.IndexPageTest - Verifying url of the homePage
+23:52:46.890 [main] INFO  com.mystore.testcases.IndexPageTest - Login is Successfully
+23:53:31.111 [main] INFO  com.mystore.testcases.IndexPageTest - Successfully Navigated to IndexPage
+23:53:38.576 [main] INFO  com.mystore.testcases.IndexPageTest - Enterde Product Name in Search Box
+23:53:43.384 [main] INFO  com.mystore.testcases.IndexPageTest - Selected 
+23:54:35.362 [main] INFO  com.mystore.testcases.IndexPageTest - Successfully Navigated to IndexPage

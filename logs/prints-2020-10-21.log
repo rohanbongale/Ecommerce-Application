@@ -1,0 +1,6 @@
+23:27:35.237 [main] INFO  com.mystore.testcases.IndexPageTest - Successfully Navigated to IndexPage
+23:27:38.187 [main] INFO  com.mystore.testcases.IndexPageTest - Validated Logo is Dislpayed
+23:28:04.891 [main] INFO  com.mystore.testcases.IndexPageTest - Successfully Navigated to IndexPage
+23:28:07.141 [main] INFO  com.mystore.testcases.IndexPageTest - Validated index page title
+23:28:37.236 [main] INFO  com.mystore.testcases.IndexPageTest - Driver initialize successfully
+23:28:37.236 [main] INFO  com.mystore.testcases.IndexPageTest - LoginTest

@@ -1,0 +1,6 @@
+21:29:03.788 [main] INFO  com.mystore.testcases.IndexPageTest - Entered t-shirt in Search Box
+21:29:07.370 [main] INFO  com.mystore.testcases.IndexPageTest - Validating Product is Avaliable
+21:29:33.989 [main] INFO  com.mystore.testcases.IndexPageTest - Successfully Navigated to IndexPage
+21:29:39.467 [main] INFO  com.mystore.testcases.IndexPageTest - Validated Logo is Dislpayed
+21:30:06.302 [main] INFO  com.mystore.testcases.IndexPageTest - Successfully Navigated to IndexPage
+21:30:06.346 [main] INFO  com.mystore.testcases.IndexPageTest - Validated index page title

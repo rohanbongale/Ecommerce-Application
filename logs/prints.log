@@ -1,0 +1,6 @@
+21:30:38.346 [main] INFO  com.mystore.testcases.IndexPageTest - Driver initialize successfully
+21:30:38.403 [main] INFO  com.mystore.testcases.IndexPageTest - LoginTest
+21:30:38.403 [main] INFO  com.mystore.testcases.IndexPageTest - Usrer is going to click on sigin
+21:30:59.566 [main] INFO  com.mystore.testcases.IndexPageTest - Entered username and Password
+21:31:17.897 [main] INFO  com.mystore.testcases.IndexPageTest - Verifying url of the homePage
+21:31:17.897 [main] INFO  com.mystore.testcases.IndexPageTest - Login is Successfully

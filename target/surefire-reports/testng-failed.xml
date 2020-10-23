@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="SomkeTest(failed)">
+    <groups>
+      <run>
+        <include name="Smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.mystore.testcases.HomePageTest">
+        <methods>
+          <include name="wishListTest"/>
+          <include name="setup"/>
+          <include name="orderHistoryTest"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.mystore.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- SomkeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
