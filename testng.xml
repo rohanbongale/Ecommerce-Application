@@ -6,9 +6,9 @@
       <class name="com.mystore.testcases.IndexPageTest"/>
       </classes>
   </test>
- <!--        <test thread-count="5" name="IndexPage">
+ <test thread-count="5" name="IndexPage">
               <classes>
       <class name="com.mystore.testcases.AccountCreartionpageTest"/>
     </classes>
-  </test> Test -->
+  </test> 
 </suite> <!-- Suite -->
