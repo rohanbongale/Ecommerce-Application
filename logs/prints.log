@@ -1,6 +1,5 @@
-21:30:38.346 [main] INFO  com.mystore.testcases.IndexPageTest - Driver initialize successfully
-21:30:38.403 [main] INFO  com.mystore.testcases.IndexPageTest - LoginTest
-21:30:38.403 [main] INFO  com.mystore.testcases.IndexPageTest - Usrer is going to click on sigin
-21:30:59.566 [main] INFO  com.mystore.testcases.IndexPageTest - Entered username and Password
-21:31:17.897 [main] INFO  com.mystore.testcases.IndexPageTest - Verifying url of the homePage
-21:31:17.897 [main] INFO  com.mystore.testcases.IndexPageTest - Login is Successfully
+23:18:01.958 [main] DEBUG com.mystore.testcases.HomePageTest - clicked on signInBtn
+23:18:16.669 [main] DEBUG com.mystore.testcases.HomePageTest - Entered username and Password
+23:18:16.669 [main] DEBUG com.mystore.testcases.HomePageTest - clicked ong LoginBtn
+23:18:17.317 [main] INFO  com.mystore.testcases.HomePageTest - Successfully validated text
+23:18:58.745 [main] DEBUG com.mystore.testcases.HomePageTest - clicked on signInBtn
